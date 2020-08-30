@@ -26,7 +26,7 @@ SECRET_KEY = 'tik+*!s^-fwt(i9_cb4#t8^pkf$0ndg8s*hly*(eh_^fgp6+4g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
